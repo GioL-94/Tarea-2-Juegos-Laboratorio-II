@@ -1,0 +1,13 @@
+C:\Users\lucia\source\repos\Clase6_2\Clase6_2\obj\Debug\netcoreapp3.1\Clase6_2.csprojAssemblyReference.cache
+C:\Users\lucia\source\repos\Clase6_2\Clase6_2\obj\Debug\netcoreapp3.1\Clase6_2.AssemblyInfoInputs.cache
+C:\Users\lucia\source\repos\Clase6_2\Clase6_2\obj\Debug\netcoreapp3.1\Clase6_2.AssemblyInfo.cs
+C:\Users\lucia\source\repos\Clase6_2\Clase6_2\obj\Debug\netcoreapp3.1\Clase6_2.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\Clase6_2\Clase6_2\bin\Debug\netcoreapp3.1\Clase6_2.exe
+C:\Users\lucia\source\repos\Clase6_2\Clase6_2\bin\Debug\netcoreapp3.1\Clase6_2.deps.json
+C:\Users\lucia\source\repos\Clase6_2\Clase6_2\bin\Debug\netcoreapp3.1\Clase6_2.runtimeconfig.json
+C:\Users\lucia\source\repos\Clase6_2\Clase6_2\bin\Debug\netcoreapp3.1\Clase6_2.runtimeconfig.dev.json
+C:\Users\lucia\source\repos\Clase6_2\Clase6_2\bin\Debug\netcoreapp3.1\Clase6_2.dll
+C:\Users\lucia\source\repos\Clase6_2\Clase6_2\bin\Debug\netcoreapp3.1\Clase6_2.pdb
+C:\Users\lucia\source\repos\Clase6_2\Clase6_2\obj\Debug\netcoreapp3.1\Clase6_2.dll
+C:\Users\lucia\source\repos\Clase6_2\Clase6_2\obj\Debug\netcoreapp3.1\Clase6_2.pdb
+C:\Users\lucia\source\repos\Clase6_2\Clase6_2\obj\Debug\netcoreapp3.1\Clase6_2.genruntimeconfig.cache
